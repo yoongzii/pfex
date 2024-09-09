@@ -1,0 +1,18 @@
+* CSS 선언 순서
+
+1. display
+- flex, gird 관련 속성
+2. visibility, overflow
+<!-- 레이아웃 -->
+3. float
+4. position
+- left, right, top, bottom,...,z-index
+5. [box model]
+- width, height, margin, padding, border
+- box-sizing
+6. background
+7. font
+8. animation
+9. transform
+10. etc(그림자, 이미지 스프라이트.....)
+
